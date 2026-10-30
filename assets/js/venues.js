@@ -1,6 +1,6 @@
-// Motorsport Events 2019-2025
+// Motorsport Events 2019-2026
 // Author: Rui Pedro Moreira
-// github.com/rpdorm/motorsport-events
+// turbozambas.github.io/motorsport-events/
 
 venues = {
     '0': {

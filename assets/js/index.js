@@ -1,17 +1,18 @@
-// Motorsport Events 2019-2025
+// Motorsport Events 2019-2026
 // Author: Rui Pedro Moreira
-// github.com/rpdorm/motorsport-events
+// turbozambas.github.io/motorsport-events/
 
 var now = Math.floor(Date.now()/1000);
 var start = moment.unix(now).startOf('day');
 var end = moment.unix(now).endOf('day');
 
-nWeeks = 52; // show next 52 weeks by default
-upcoming = now+691200*nWeeks;
-nSeries = 0;
-nSessions = 0;
-nEvents = 0;
-nLive = 0;
+const secondsInAWeek = 691200;
+const nWeeks = 52; // show next 52 weeks by default
+const upcoming = now+secondsInAWeek*nWeeks;
+let nSeries = 0;
+let nSessions = 0;
+let nEvents = 0;
+let nLive = 0;
 
 for (i=0; i<Object.keys(series).length; i++) {
 	events = series[i].events;

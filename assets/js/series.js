@@ -1,6 +1,6 @@
-// Motorsport Events 2019-2025
+// Motorsport Events 2019-2026
 // Author: Rui Pedro Moreira
-// github.com/rpdorm/motorsport-events
+// turbozambas.github.io/motorsport-events/
 
 series = {
     //Formula One
@@ -54,37 +54,37 @@ series = {
                 'venue': 10,
                 'sessions': {
                     '0': {
-                        'name': 'Free Practice',
-                        'symbol': 'FP',
-                        'timestamp': 1762525800,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1793979000,
                         'length': 3600,
                         'live': false
                     },
                     '1': {
-                        'name': 'Sprint Qualifying',
-                        'symbol': 'SQ',
-                        'timestamp': 1762540200,
-                        'length': 2700,
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1793991600,
+                        'length': 3600,
                         'live': false
                     },
                     '2': {
-                        'name': 'Sprint',
-                        'symbol': 'S',
-                        'timestamp': 1762610400,
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1794061800,
                         'length': 3600,
                         'live': false
                     },
                     '3': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1762624800,
+                        'timestamp': 1794074400,
                         'length': 3600,
                         'live': false
                     },
                     '4': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1762707600,
+                        'timestamp': 1794157200,
                         'length': 7200,
                         'live': false
                     }
@@ -97,35 +97,35 @@ series = {
                     '0': {
                         'name': 'Free Practice 1',
                         'symbol': 'FP1',
-                        'timestamp': 1763685000,
+                        'timestamp': 1795134600,
                         'length': 3600,
                         'live': false
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
-                        'timestamp': 1763697600,
+                        'timestamp': 1795147200,
                         'length': 3600,
                         'live': false
                     },
                     '2': {
                         'name': 'Free Practice 3',
                         'symbol': 'FP3',
-                        'timestamp': 1763771400,
+                        'timestamp': 1795221000,
                         'length': 3600,
                         'live': false
                     },
                     '3': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1763784000,
+                        'timestamp': 1795233600,
                         'length': 3600,
                         'live': false
                     },
                     '4': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1763870400,
+                        'timestamp': 1795320000,
                         'length': 7200,
                         'live': false
                     }
@@ -136,37 +136,37 @@ series = {
                 'venue': 78,
                 'sessions': {
                     '0': {
-                        'name': 'Free Practice',
-                        'symbol': 'FP',
-                        'timestamp': 1764336600,
+                        'name': 'Free Practice 1',
+                        'symbol': 'FP1',
+                        'timestamp': 1795786200,
                         'length': 3600,
                         'live': false
                     },
                     '1': {
-                        'name': 'Sprint Qualifying',
-                        'symbol': 'SQ',
-                        'timestamp': 1764351000,
-                        'length': 2700,
+                        'name': 'Free Practice 2',
+                        'symbol': 'FP2',
+                        'timestamp': 1795798800,
+                        'length': 3600,
                         'live': false
                     },
                     '2': {
-                        'name': 'Sprint',
-                        'symbol': 'S',
-                        'timestamp': 1764424800,
+                        'name': 'Free Practice 3',
+                        'symbol': 'FP3',
+                        'timestamp': 1795876200,
                         'length': 3600,
                         'live': false
                     },
                     '3': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1764439200,
+                        'timestamp': 1795888800,
                         'length': 3600,
                         'live': false
                     },
                     '4': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1764518400,
+                        'timestamp': 1795968000,
                         'length': 7200,
                         'live': false
                     }
@@ -179,35 +179,35 @@ series = {
                     '0': {
                         'name': 'Free Practice 1',
                         'symbol': 'FP1',
-                        'timestamp': 1764927000,
+                        'timestamp': 1796376600,
                         'length': 3600,
                         'live': false
                     },
                     '1': {
                         'name': 'Free Practice 2',
                         'symbol': 'FP2',
-                        'timestamp': 1764939600,
+                        'timestamp': 1796389200,
                         'length': 3600,
                         'live': false
                     },
                     '2': {
                         'name': 'Free Practice 3',
                         'symbol': 'FP3',
-                        'timestamp': 1765017000,
+                        'timestamp': 1796466600,
                         'length': 3600,
                         'live': false
                     },
                     '3': {
                         'name': 'Qualifying',
                         'symbol': 'Q',
-                        'timestamp': 1765029600,
+                        'timestamp': 1796479200,
                         'length': 3600,
                         'live': false
                     },
                     '4': {
                         'name': 'Race',
                         'symbol': 'R',
-                        'timestamp': 1765112400,
+                        'timestamp': 1796562000,
                         'length': 7200,
                         'live': false
                     }
