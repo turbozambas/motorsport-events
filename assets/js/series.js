@@ -217,7 +217,7 @@ series = {
     },
     //Dakar
     '1': {
-        'name': 'DAKAR',
+        'name': 'Dakar',
         'symbol': 'DAKAR',
         'events': {
             '0': {
@@ -225,37 +225,93 @@ series = {
                 'venue': 88,
                 'sessions': {
                     '0': {
-                        'name': 'Prologue - Loulé > Faro > Loulé',
+                        'name': 'Prologue - Loulé > Loulé',
                         'symbol': 'P',
-                        'timestamp': 1799568000,
+                        'timestamp': 1799478000,
                         'length': 32400,
                         'live': false
                     },
                     '1': {
-                        'name': 'Stage 1 - Bouârfa > Bouârfa',
+                        'name': 'Stage 1 - Loulé > Loulé',
                         'symbol': 'S1',
-                        'timestamp': 1799740800,
+                        'timestamp': 1799564400,
                         'length': 32400,
                         'live': false
                     },
                     '2': {
                         'name': 'Stage 2 - Bouârfa > Bouârfa',
                         'symbol': 'S2',
-                        'timestamp': 1799827200,
+                        'timestamp': 1799737200,
                         'length': 32400,
                         'live': false
                     },
                     '3': {
-                        'name': 'Stage 3 - ',
+                        'name': 'Stage 3 - Bouârfa > Bouârfa',
                         'symbol': 'S3',
-                        'timestamp': 1761426000,
+                        'timestamp': 1799823600,
                         'length': 32400,
                         'live': false
                     },
                     '4': {
-                        'name': 'Stage 4 - ',
+                        'name': 'Stage 4 - Bouârfa > Zagora',
                         'symbol': 'S4',
-                        'timestamp': 1761508800,
+                        'timestamp': 1799910000,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '5': {
+                        'name': 'Stage 5 - Zagora > Zagora',
+                        'symbol': 'S5',
+                        'timestamp': 1799996400,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '6': {
+                        'name': 'Stage 6 - Zagora > Agadir',
+                        'symbol': 'S6',
+                        'timestamp': 1800082800,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '7': {
+                        'name': 'Stage 7 - Agadir > Smara',
+                        'symbol': 'S7',
+                        'timestamp': 1800255600,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '8': {
+                        'name': 'Stage 8 - Smara > Refuge',
+                        'symbol': 'S8',
+                        'timestamp': 1800342000,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '9': {
+                        'name': 'Stage 9 - Refuge > Smara',
+                        'symbol': 'S9',
+                        'timestamp': 1800428400,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '10': {
+                        'name': 'Stage 10 - Smara > Smara',
+                        'symbol': 'S10',
+                        'timestamp': 1800514800,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '11': {
+                        'name': 'Stage 11 - Smara > Marrakech',
+                        'symbol': 'S11',
+                        'timestamp': 1800601200,
+                        'length': 32400,
+                        'live': false
+                    },
+                    '12': {
+                        'name': 'Stage 12 - Marrakech > Marrakech',
+                        'symbol': 'S12',
+                        'timestamp': 1800687600,
                         'length': 32400,
                         'live': false
                     }
